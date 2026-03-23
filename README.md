@@ -13,10 +13,6 @@ This project is an advanced image transformation tool that converts standard pho
 | **↑ / ↓** | Edge Size Up/Down | Adjusts the thickness of the outlines (Block Size). |
 | **ESC** | Save & Exit | Saves the final image as `[filename]_result.png` and exits. |
 
-> **🔴 Recording Indicator**: While recording is in progress, a red circle (**● REC**) appears in the top-right corner of the interactive window to signal the active status.
-
-> **⚠️ Performance Note**: Input responsiveness for `C/D` and `Arrow Keys` may experience slight delays depending on the image resolution, as the `Bilateral Filter` and `Adaptive Threshold` require high computational loads for real-time rendering.
-
 ---
 
 ## 🖼 Showcase: Successful vs. Failed Cases
@@ -26,7 +22,7 @@ This project is an advanced image transformation tool that converts standard pho
 
 | Original Image | Interactive Process (Demo) | Final Result |
 | :---: | :---: | :---: |
-| <img src="joker.png" width="250"> | <img src="joker_demo.gif" width="250"> | <img src="joker_result.png" width="250"> |
+| <img src="Joker.png" width="250"> | <img src="Joker_demo.gif" width="250"> | <img src="Joker_result.png" width="250"> |
 
 ---
 
@@ -36,8 +32,6 @@ This project is an advanced image transformation tool that converts standard pho
 | Original Image | Interactive Process (Demo) | Final Result |
 | :---: | :---: | :---: |
 | <img src="nature.png" width="250"> | <img src="nature_demo.gif" width="250"> | <img src="nature_result.png" width="250"> |
-
----
 
 ## 🚩 Technical Analysis & Limitations
 
