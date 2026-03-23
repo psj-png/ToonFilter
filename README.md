@@ -26,7 +26,7 @@ This project is an advanced image transformation tool that converts standard pho
 
 | Original Image | Interactive Process (Demo) | Final Result |
 | :---: | :---: | :---: |
-| <img src="./joker.png" width="250" height="180"> | <img src="./joker_demo.gif" width="250" height="180"> | <img src="./joker_result.png" width="250" height="180"> |
+| <img src="joker.png" width="250"> | <img src="joker_demo.gif" width="250"> | <img src="joker_result.png" width="250"> |
 
 ---
 
@@ -35,7 +35,7 @@ This project is an advanced image transformation tool that converts standard pho
 
 | Original Image | Interactive Process (Demo) | Final Result |
 | :---: | :---: | :---: |
-| <img src="./nature.png" width="250" height="180"> | <img src="./nature_demo.gif" width="250" height="180"> | <img src="./nature_result.png" width="250" height="180"> |
+| <img src="nature.png" width="250"> | <img src="nature_demo.gif" width="250"> | <img src="nature_result.png" width="250"> |
 
 ---
 
