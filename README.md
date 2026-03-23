@@ -19,12 +19,14 @@ This project is an advanced image transformation tool that converts standard pho
 
 ---
 
+---
+
 ### ✅ Successful Case: Character Portrait (Joker)
 *Highly effective due to high contrast, clear boundaries, and smooth gradients.*
 
 | Original Image | Interactive Process (Demo) | Final Result |
 | :---: | :---: | :---: |
-| <img src="Joker.png" width="32%"> | <img src="Joker_demo.gif" width="32%"> | <img src="Joker_result.png" width="32%"> |
+| <img src="Joker.png" width="100%"> | <img src="Joker_demo.gif" width="100%"> | <img src="Joker_result.png" width="100%"> |
 
 ---
 
@@ -33,7 +35,8 @@ This project is an advanced image transformation tool that converts standard pho
 
 | Original Image | Interactive Process (Demo) | Final Result |
 | :---: | :---: | :---: |
-| <img src="nature.png" width="32%"> | <img src="nature_demo.gif" width="32%"> | <img src="nature_result.png" width="32%"> |
+| <img src="nature.png" width="100%"> | <img src="nature_demo.gif" width="100%"> | <img src="nature_result.png" width="100%"> |
+
 ## 🚩 Technical Analysis & Limitations
 
 Based on the showcase above, the following technical insights were gathered:
