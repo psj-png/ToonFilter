@@ -17,8 +17,6 @@ This project is an advanced image transformation tool that converts standard pho
 
 ## 🖼 Showcase: Successful vs. Failed Cases
 
----
-
 
 ### ✅ Successful Case: Character Portrait (Joker)
 *Highly effective due to high contrast, clear boundaries, and smooth gradients.*
