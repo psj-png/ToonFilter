@@ -1,10 +1,10 @@
-# 🎨 Interactive Cartoon Renderer with Real-time Recording
+# Interactive Cartoon Renderer with Real-time Recording
 
 This project is an advanced image transformation tool that converts standard photographs into **Toon-shaded (Cartoon-style)** art using OpenCV. It features real-time interactive controls for artistic effects and a built-in screen recording function.
 
 ---
 
-## ⌨️ Control Guide
+## Control Guide
 
 | Key | Function | Description |
 | :--- | :--- | :--- |
@@ -15,10 +15,10 @@ This project is an advanced image transformation tool that converts standard pho
 
 ---
 
-## 🖼 Showcase: Successful vs. Failed Cases
+## Showcase: Successful vs. Failed Cases
 
 
-### ✅ Successful Case: Character Portrait (Joker)
+### Successful Case: Character Portrait (Joker)
 *Highly effective due to high contrast, clear boundaries, and smooth gradients.*
 
 | Original Image | Interactive Process (Demo) | Final Result |
@@ -27,14 +27,14 @@ This project is an advanced image transformation tool that converts standard pho
 
 ---
 
-### ⚠️ Failed Case: Complex Nature (Foliage)
+### Failed Case: Complex Nature (Foliage)
 *Challenges arise with intricate textures and low contrast, leading to significant edge noise.*
 
 | Original Image | Interactive Process (Demo) | Final Result |
 | :---: | :---: | :---: |
 | <img src="nature.png" width="100%"> | <img src="nature_demo.gif" width="100%"> | <img src="nature_result.png" width="100%"> |
 
-## 🚩 Technical Analysis & Limitations
+## Technical Analysis & Limitations
 
 Based on the showcase above, the following technical insights were gathered:
 
