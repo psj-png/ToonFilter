@@ -44,7 +44,7 @@ Based on the showcase above, the following technical insights were gathered:
 
 ---
 
-## 🛠 Future Roadmap
+##  Future Roadmap
 
 * **GPU Acceleration (CUDA)**: To reduce input latency by offloading image processing to the GPU.
 * **Morphological Cleaning**: Using **Erosion/Dilation** to remove the "salt-and-pepper" noise found in the nature scene.
